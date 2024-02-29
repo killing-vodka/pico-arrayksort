@@ -41,6 +41,6 @@ Same results: `* apple 30 * banana 6 * cherry 22` but smarter.
 
 ## Install
 
-If you're using one of [Pico's pre-built release packages](https://github.com/picocms/Pico/releases/latest), you need to first create an empty `plugins/PicoArrayKSort` directory in Pico's installation directory on your server. Next, download the latest source package of `PicoArrayKSort` and upload `PicoArrayKSort.php` into the aforementioned `plugins/PicoReadingTime` directory.
+If you're using one of [Pico's pre-built release packages](https://github.com/picocms/Pico/releases/latest), you need to first create an empty `plugins/PicoArrayKSort` directory in Pico's installation directory on your server. Next, download the latest source package of `PicoArrayKSort` and upload `PicoArrayKSort.php` into the aforementioned `plugins/PicoArrayKSort` directory.
 
 That's all.
