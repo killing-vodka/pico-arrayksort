@@ -2,7 +2,7 @@
 
 Pico Ksort plugin. Pico is a stupidly simple, blazing fast, flat file CMS. See https://picocms.org/ for more info.
 
-This plugin is asmall integration for the Twig Template Engine. This plugin directly brings the ksort function from PHP into your tpl file. Sort an array by key, nothing more.
+This plugin is a small integration for the Twig Template Engine. This plugin directly brings the ksort function from PHP into your tpl file. Sort an array by key, nothing more.
 
 ### Why do you need this?
 
