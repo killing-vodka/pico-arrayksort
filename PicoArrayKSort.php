@@ -11,7 +11,7 @@
  * @license https://opensource.org/licenses/MIT The MIT License
  * @version 0.1
  */
-class PicoArraySort extends AbstractPicoPlugin
+class PicoArrayKSort extends AbstractPicoPlugin
 {
     const API_VERSION = 3;
     protected $enabled = true;
